@@ -31,3 +31,4 @@ All analyses were based on the following publicly available datasets.
 
 - Reef Fish Stressed Area Fishery Management Area: https://www.fisheries.noaa.gov/resource/map/reef-fish-stressed-area-fishery-management-area-map-gis-data
 
+<img width="1536" height="1024" alt="Designer" src="https://github.com/user-attachments/assets/7b2cddca-6507-4c11-9a31-f9ce1e302a80" />
